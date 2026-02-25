@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Bacterial Blight', 'Fusarium Wilt', 'Healthy Leaf', 'Leaf Curl Virus']
+
+roboflow:
+  workspace: m-7a2lj
+  project: leaf-disease-detection-36bhu
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/m-7a2lj/leaf-disease-detection-36bhu/dataset/1
