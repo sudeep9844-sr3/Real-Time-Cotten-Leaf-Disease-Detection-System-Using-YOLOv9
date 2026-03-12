@@ -25,6 +25,5 @@ Sudeep Reddy K
 
 ## Project Interface
 
-![Cotton Leaf Disease Detection System](cotton-detection-ui.png)
-
+![Cotton Leaf Detection System](cotton-detection-ui.png.png)
 
