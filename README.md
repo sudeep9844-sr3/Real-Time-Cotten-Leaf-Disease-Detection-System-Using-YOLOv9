@@ -20,8 +20,7 @@ How to Run:
 2. Install required libraries
 3. Run the detection script
 
-Author:
-Sudeep Reddy K
+
 
 
 
