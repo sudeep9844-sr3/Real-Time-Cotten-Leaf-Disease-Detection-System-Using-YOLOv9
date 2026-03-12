@@ -23,7 +23,7 @@ How to Run:
 Author:
 Sudeep Reddy K
 
-Home Page
+##Home Page
 
 ![Cotton Leaf Detection System](cotton-detection-ui.png.png)
 
