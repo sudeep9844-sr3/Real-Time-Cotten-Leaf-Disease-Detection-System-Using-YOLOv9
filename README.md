@@ -1,4 +1,4 @@
-Real-Time Cotton Leaf Disease Detection System Using YOLOv9:
+Real-Time Cotton Leaf Disease Detection System Using YOLOv9
 
 Overview:
 This project detects cotton leaf diseases using the YOLOv9 deep learning model. 
@@ -10,15 +10,15 @@ Technologies Used:
 - OpenCV
 - PyTorch
 
-Features
+Features:
 - Real-time disease detection
 - Image-based disease classification
 - Deep learning model training
 
-How to Run
+How to Run:
 1. Clone the repository
 2. Install required libraries
 3. Run the detection script
 
-Author
+Author:
 Sudeep Reddy K
