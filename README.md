@@ -29,5 +29,5 @@ Sudeep Reddy K
 
 ## Dashboard
 
-![Dashboard](dashboard-ui.png)
+![Project UI](cotton-detection-ui.png.png)
 
