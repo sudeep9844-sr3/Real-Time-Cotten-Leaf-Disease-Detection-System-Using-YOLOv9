@@ -27,3 +27,7 @@ Sudeep Reddy K
 
 ![Cotton Leaf Detection System](cotton-detection-ui.png.png)
 
+## Dashboard
+
+![Dashboard](dashboard-ui.png)
+
