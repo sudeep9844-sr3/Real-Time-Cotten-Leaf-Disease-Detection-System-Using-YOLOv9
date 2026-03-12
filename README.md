@@ -24,4 +24,4 @@ Author:
 Sudeep Reddy K
 ## Project Interface
 
-![Cotton Leaf Disease Detection System](project-ui.png)
+
