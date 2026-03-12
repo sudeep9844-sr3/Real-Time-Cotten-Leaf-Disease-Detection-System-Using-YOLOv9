@@ -23,11 +23,8 @@ How to Run:
 Author:
 Sudeep Reddy K
 
-## Project Interface
+Home Page
 
 ![Cotton Leaf Detection System](cotton-detection-ui.png.png)
 
-## Dashboard
-
-![Project UI](cotton-detection-ui.png.png)
 
